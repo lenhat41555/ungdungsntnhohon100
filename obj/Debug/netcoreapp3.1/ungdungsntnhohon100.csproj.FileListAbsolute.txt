@@ -1,0 +1,13 @@
+C:\LN\ungdungsntnhohon100\bin\Debug\netcoreapp3.1\ungdungsntnhohon100.exe
+C:\LN\ungdungsntnhohon100\bin\Debug\netcoreapp3.1\ungdungsntnhohon100.deps.json
+C:\LN\ungdungsntnhohon100\bin\Debug\netcoreapp3.1\ungdungsntnhohon100.runtimeconfig.json
+C:\LN\ungdungsntnhohon100\bin\Debug\netcoreapp3.1\ungdungsntnhohon100.runtimeconfig.dev.json
+C:\LN\ungdungsntnhohon100\bin\Debug\netcoreapp3.1\ungdungsntnhohon100.dll
+C:\LN\ungdungsntnhohon100\bin\Debug\netcoreapp3.1\ungdungsntnhohon100.pdb
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.csprojAssemblyReference.cache
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.AssemblyInfoInputs.cache
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.AssemblyInfo.cs
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.csproj.CoreCompileInputs.cache
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.dll
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.pdb
+C:\LN\ungdungsntnhohon100\obj\Debug\netcoreapp3.1\ungdungsntnhohon100.genruntimeconfig.cache
